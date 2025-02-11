@@ -80,7 +80,7 @@ and a **servo motor for rotating the plate** using **Pulse-Width Modulation (PWM
 - Implement a **temperature sensor** for real-world applications.
 - Use a **real-time clock (RTC) module** to keep track of the time of day.
 
-**Author:** [Ramsen Oraha]
-**Version:** 1.12
+**Author:** [Ramsen Oraha] \
+**Version:** 1.12 \
 **Date:** [2025-02-11]
 
